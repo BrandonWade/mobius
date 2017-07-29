@@ -1,0 +1,7 @@
+html, body {
+  width: 300px;
+}
+
+input, label {
+  display: inline;
+}
